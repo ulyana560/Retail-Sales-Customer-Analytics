@@ -70,8 +70,7 @@ The final goal is to transform raw transactional data into meaningful business i
 * **GitHub** — project documentation and version control
 
 ##  Project Workflow
-
-```text
+````
 Raw Data
    ↓
 Data Preparation
@@ -84,11 +83,12 @@ DAX Measures
    ↓
 Power BI Report
    ↓
+Sales Forecasting
+   ↓
 Business Insights
    ↓
-Sales Forecasting
-```
-
+Final Conclusions
+````
 ##  Project Status
 
  **In Progress**
